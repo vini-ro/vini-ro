@@ -5,7 +5,7 @@
 - 📫 How to reach me: Send me a DM!
 - ⚡ Fun fact: I'm also a Civil Engineer 🏗️ and a Jiu-Jitsu Black Bellt ⬛️⬛️⬛️🟥🟥🟥⬛️ OSS!
 
-#### Main Stack:
+#### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
