@@ -1,20 +1,3 @@
-- 👋 Hi, I’m @vr0liveira , but just call me Vini
-- 👀 I’m interested in develop my skills focused on systems development and learn new programming languages.
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on any repository that I can also learn new things or help someone.
-- 📫 How to reach me: Send me a DM!
-- ⚡ Fun fact: I'm also a Civil Engineer 🏗️ and a Jiu-Jitsu Black Bellt ⬛️⬛️⬛️🟥🟥🟥⬛️ OSS!
-
-
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vr0liveira&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=vr0liveira&show_icons=true&theme=radical&layout=compact" />
-</div>
- 
- &nbsp;
- &nbsp;
-
 #### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
