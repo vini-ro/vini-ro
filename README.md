@@ -1,27 +1,37 @@
-### Working with:
+# Hi, I'm Vinicius 👋
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+**iOS & Node.js/AWS Developer** · Civil Engineer · Salvador, Brazil 🇧🇷
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+- 📱 I build native iOS apps with **Swift and SwiftUI** (MVVM, Combine, async/await, MapKit).
+- ☁️ I build serverless back-ends on **AWS**. My most recent project is a generative-AI customer-support chatbot built with **Amazon Bedrock, Lambda and Node.js**.
+- 🎓 Information Systems student at **UniRuy Wyden** (graduating 2027) and Civil Engineer (**UCSal**).
+- 🌏 Fluent in English (PTE Academic 88/90). I lived and worked in Sydney, Australia.
 
-### Workstation Tools:
+### 🛠️ Tech stack
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
-![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Lambda%20%7C%20Bedrock%20%7C%20S3-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Contacts:
+### 🚀 Featured projects
 
-<a href = "mailto:vroliveira.eng@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vroliveira-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+| Project | What it is | Stack |
+|---|---|---|
+| [**Tibiainfo**](https://github.com/vini-ro/Tibiainfo) | iOS app to look up Tibia characters, with caching, offline mode and iPad layout | SwiftUI · MVVM · Combine · REST |
+| [**TideTimes**](https://github.com/vini-ro/TideTimes) | Real-time tide forecasts with animated charts and location search | SwiftUI · MapKit · CoreLocation |
+| [**Hunt Analyzer**](https://github.com/vini-ro/Hunt-Analyzer) | Desktop app that auto-imports game logs and charts XP/h and profit/h, with a demo mode | Python · SQLite · CustomTkinter |
+| [**TS3 Stream Deck Plugin**](https://github.com/vini-ro/TS3-MacOS-Plugin-StreamDeck) | Native macOS Stream Deck plugin that controls TeamSpeak 3 | TypeScript · Node.js |
+| [**2753-Serverless**](https://github.com/vini-ro/2753-Serverless) | Serverless REST API with JWT auth (course project) | AWS Lambda · Node.js · MongoDB |
 
-<!---
-vr0liveira/vr0liveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vroliveira--eng-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vroliveira-eng/)
+[![Email](https://img.shields.io/badge/Email-vroliveira.eng%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vroliveira.eng@gmail.com)
